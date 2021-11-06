@@ -5,7 +5,7 @@
 Dana's webpage have lots of info. She would like to filter for multiple criteria at the same time.
 She would like filter for the city, state, country and shape.
 
-### Project
+## Project
 
 The website consist in 3 components HTML to present the webpage, Javascript to interacte with data and CSS to make the style.
 
